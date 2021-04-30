@@ -1,0 +1,32 @@
+.fs-titulo
+{
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 85.4%;
+ 
+    
+
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+
+
+    letter-spacing: 0.08em;
+}
+
+.fs-subtitulo
+{
+    font-size: 23px;
+}
+
+.g-color{
+    color: #53744E;
+}
+
+.bg-menu{
+    background-color: #F88240;
+}
+a
+{
+    cursor: pointer;
+}
